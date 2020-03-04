@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsCtl", "ConsCtl\ConsCtl.vcxproj", "{F5B0F8D7-D859-46B0-B37C-12B6B7870C65}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProcObsrv", "ProcObsrv\ProcObsrv.vcxproj", "{6015BA26-1015-4CAB-9133-0C1772409B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B0F8D7-D859-46B0-B37C-12B6B7870C65}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5B0F8D7-D859-46B0-B37C-12B6B7870C65}.Debug|x86.Build.0 = Debug|Win32
+		{F5B0F8D7-D859-46B0-B37C-12B6B7870C65}.Release|x86.ActiveCfg = Release|Win32
+		{F5B0F8D7-D859-46B0-B37C-12B6B7870C65}.Release|x86.Build.0 = Release|Win32
+		{F5B0F8D7-D859-46B0-B37C-12B6B7870C65}.Template|x86.ActiveCfg = Release|Win32
+		{F5B0F8D7-D859-46B0-B37C-12B6B7870C65}.Template|x86.Build.0 = Release|Win32
+		{6015BA26-1015-4CAB-9133-0C1772409B3B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6015BA26-1015-4CAB-9133-0C1772409B3B}.Debug|x86.Build.0 = Debug|Win32
+		{6015BA26-1015-4CAB-9133-0C1772409B3B}.Release|x86.ActiveCfg = Release|Win32
+		{6015BA26-1015-4CAB-9133-0C1772409B3B}.Release|x86.Build.0 = Release|Win32
+		{6015BA26-1015-4CAB-9133-0C1772409B3B}.Template|x86.ActiveCfg = Template|Win32
+		{6015BA26-1015-4CAB-9133-0C1772409B3B}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A5887B-31F9-4350-83D9-4A4EFED84EC6}
+	EndGlobalSection
+EndGlobal
